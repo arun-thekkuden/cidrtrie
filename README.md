@@ -11,3 +11,4 @@ This implementation offers asymptotic performance improvement for problems that 
     lookup NaiveCidrClassifier 92.11s
 
 An example use case would be to efficiently map IP addresses (from logs or some other source) to the originating network (and, eventually, to the owner) without using a commercial library like MaxMind or bringing in any native-code dependencies.
+Changes!
